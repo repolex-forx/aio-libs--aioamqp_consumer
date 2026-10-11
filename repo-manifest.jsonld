@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/aio-libs/aioamqp_consumer/commit/c687211e385f7d7b3a90a042c97213d469bdaaa6",
       "git:hexsha": "c687211e385f7d7b3a90a042c97213d469bdaaa6",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.3.4"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.3.4",
+      "repolex:parsedAt": "2026-10-11T08:56:17.596446+00:00"
     },
     {
       "@id": "https://repolex.ai/r/aio-libs/aioamqp_consumer/commit/99af50ab882f1c39c831f14300bd4eafc3a0f30c",
