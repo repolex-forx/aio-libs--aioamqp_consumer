@@ -1,0 +1,11 @@
+{
+  "org": "aio-libs",
+  "repo": "aioamqp_consumer",
+  "versions": [
+    {
+      "commit": "c687211e385f7d7b3a90a042c97213d469bdaaa6",
+      "tag": "v0.3.4",
+      "parsed_at": "2026-10-11T08:56:17.596959+00:00"
+    }
+  ]
+}
