@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/aio-libs/aioamqp_consumer/commit/c687211e385f7d7b3a90a042c97213d469bdaaa6",
       "git:hexsha": "c687211e385f7d7b3a90a042c97213d469bdaaa6",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.3.4"
     },
     {
